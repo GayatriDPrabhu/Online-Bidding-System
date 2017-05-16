@@ -1,4 +1,6 @@
 # Online-Bidding-System
+Developed an online bidding system where user can bid for an item posted by some other user. 
+Used RESTful web services to implement the same. Hibernate was used to connect to the database (ORM) and JSP/Servlets were used for the front end.
 This web application supports the following functionalities:
 1. New user registration
 2. Existing user login and logout
